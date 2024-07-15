@@ -1,0 +1,3 @@
+
+
+var RESULT_CODE_SUCCESS = 200;

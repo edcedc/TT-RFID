@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.yyc.tt.app-merged_res-12:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.yyc.tt.app-main-6:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.yyc.tt.app-merged_res-12:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.yyc.tt.app-main-6:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.yyc.tt.app-merged_res-12:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.yyc.tt.app-main-6:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.yyc.tt.app-merged_res-12:\\mipmap-xhdpi_splash.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.yyc.tt.app-main-6:\\mipmap-xhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.yyc.tt.app-merged_res-12:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.yyc.tt.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.yyc.tt.app-merged_res-12:\\drawable-v21_background.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.yyc.tt.app-main-6:\\drawable-v21\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.yyc.tt.app-merged_res-12:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.yyc.tt.app-main-6:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.yyc.tt.app-merged_res-12:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.yyc.tt.app-main-6:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.yyc.tt.app-merged_res-12:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.yyc.tt.app-main-6:\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

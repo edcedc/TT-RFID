@@ -1,0 +1,19 @@
+com.yyc.tt.app-jetified-window-1.0.0-beta04-0 C:\Users\Admin\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.yyc.tt.app-webkit-1.7.0-1 C:\Users\Admin\.gradle\caches\transforms-3\26053599e8c0dac0e11dd421905435f3\transformed\webkit-1.7.0\res
+com.yyc.tt.app-jetified-annotation-experimental-1.1.0-2 C:\Users\Admin\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.yyc.tt.app-core-1.6.0-3 C:\Users\Admin\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.yyc.tt.app-jetified-window-java-1.0.0-beta04-4 C:\Users\Admin\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.yyc.tt.app-debug-5 E:\FlutterStudioProjects\TT RFID\android\app\src\debug\res
+com.yyc.tt.app-main-6 E:\FlutterStudioProjects\TT RFID\android\app\src\main\res
+com.yyc.tt.app-pngs-7 E:\FlutterStudioProjects\TT RFID\build\app\generated\res\pngs\debug
+com.yyc.tt.app-resValues-8 E:\FlutterStudioProjects\TT RFID\build\app\generated\res\resValues\debug
+com.yyc.tt.app-rs-9 E:\FlutterStudioProjects\TT RFID\build\app\generated\res\rs\debug
+com.yyc.tt.app-mergeDebugResources-10 E:\FlutterStudioProjects\TT RFID\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.yyc.tt.app-mergeDebugResources-11 E:\FlutterStudioProjects\TT RFID\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.yyc.tt.app-merged_res-12 E:\FlutterStudioProjects\TT RFID\build\app\intermediates\merged_res\debug
+com.yyc.tt.app-packaged_res-13 E:\FlutterStudioProjects\TT RFID\build\fluttertoast\intermediates\packaged_res\debug
+com.yyc.tt.app-packaged_res-14 E:\FlutterStudioProjects\TT RFID\build\path_provider_android\intermediates\packaged_res\debug
+com.yyc.tt.app-packaged_res-15 E:\FlutterStudioProjects\TT RFID\build\permission_handler_android\intermediates\packaged_res\debug
+com.yyc.tt.app-packaged_res-16 E:\FlutterStudioProjects\TT RFID\build\shared_preferences_android\intermediates\packaged_res\debug
+com.yyc.tt.app-packaged_res-17 E:\FlutterStudioProjects\TT RFID\build\sqflite\intermediates\packaged_res\debug
+com.yyc.tt.app-packaged_res-18 E:\FlutterStudioProjects\TT RFID\build\webview_flutter_android\intermediates\packaged_res\debug
